@@ -116,13 +116,14 @@ These new features provide enhanced functionality and convenience for testing an
 ## ✔ Installation
 
 ```bash
-   git clone https://github.com/sudeepshukla930/SwagLabs_playwright_cucumber.git
+   git clone <<repo_url>>
 ```
 
 install dependencies
 
 ```bash
    npm install
+   npx playwright install
 ```
 
 ## 🚀 Usage
@@ -214,8 +215,6 @@ npm run test:coverage
 *******************************
 ********************
 
-
-   **<h2 align="center"> Contributed by <a href="https://github.com/sudeepshukla930">Sudeep Shukla</a> With 💜. </h2>**
 
 
 
